@@ -1,0 +1,216 @@
+Patient#,Date,Place,Age,Gender,Foreign Origin,Origin Dates,Linked Patient#,Death date,Discharge Date,Total cases,Deaths,Cured/Discharged/Migrated,No of contacts,Hospital
+1,2020-03-09,Bengaluru,40,M,USA,2020-03-01,NaN,NaN,2020-03-28,1,0,1,2,RGICD
+2,2020-03-10,Bengaluru,47,F,NaN,NaN,1,NaN,2020-03-24,1,0,1,0,RGICD
+3,2020-03-10,Bengaluru,13,F,NaN,NaN,1,NaN,2020-03-28,1,0,1,0,RGICD
+4,2020-03-10,Bengaluru,50,M,UK,NaN,NaN,NaN,2020-03-24,1,0,1,0,RGICD
+5,2020-03-12,Bengaluru,26,M,Greece,2020-03-06,NaN,NaN,2020-03-20,1,0,1,0,Jayanagar General
+6,2020-03-16,Kalburgi,76,M,Saudi Arabia,2020-02-29,NaN,2020-03-13,NaN,1,1,0,2,NO HOSPITAL
+7,2020-03-16,Kalburgi,45,F,NaN,NaN,6,NaN,2020-03-31,1,0,1,0,District Hospital Kalburgi
+8,2020-03-17,Bengaluru,32,M,USA,2020-03-08,NaN,NaN,2020-03-31,1,0,1,0,Designated
+9,2020-03-17,Kalburgi,63,M,NaN,NaN,6,NaN,2020-04-03,1,0,1,1,Designated
+10,2020-03-17,Bengaluru,20,F,UK,2020-03-14,NaN,NaN,2020-04-03,1,0,1,0,Designated
+11,2020-03-17,Bengaluru,67,F,Dubai,2020-03-16,NaN,NaN,2020-03-30,1,0,1,1,Designated
+12,2020-03-18,Bengaluru,25,M,Spain,2020-03-13,NaN,NaN,2020-03-31,1,0,1,0,Designated
+13,2020-03-18,Bengaluru,56,F,USA,2020-03-06,NaN,NaN,2020-04-06,1,0,1,1,Designated
+14,2020-03-18,Bengaluru,35,M,USA,2020-03-16,NaN,NaN,2020-04-05,1,0,1,0,Designated
+15,2020-03-19,Kodagu,35,M,Dubai,2020-03-15,NaN,NaN,2020-04-08,1,0,1,0,Designated
+16,2020-03-21,Bengaluru,53,F,NaN,NaN,11,NaN,NaN,1,0,0,0,Designated
+17,2020-03-21,Bengaluru,39,M,Netherlands,2020-03-19,NaN,NaN,NaN,1,0,0,2,Designated
+18,2020-03-21,Bengaluru,21,M,UK,2020-03-17,NaN,NaN,NaN,1,0,0,0,Designated
+19,2020-03-21,Chikkaballapura,31,M,Saudi Arabia,2020-03-14,NaN,NaN,NaN,1,0,0,9,Designated
+20,2020-03-21,Mysuru,35,M,Dubai,2020-03-19,NaN,NaN,2020-04-07,1,0,1,0,Designated
+21,2020-03-22,Dharwad,35,M,Dubai,2020-03-11,NaN,NaN,2020-04-06,1,0,1,0,Designated
+22,2020-03-22,Chikkaballapura,64,F,Saudi Arabia,2020-03-14,19,NaN,2020-04-11,1,0,1,0,Designated
+23,2020-03-22,Bengaluru,36,F,France,2020-03-09,NaN,NaN,2020-04-09,1,0,1,0,Designated
+24,2020-03-22,Bengaluru,27,M,Germany,2020-03-14,NaN,NaN,2020-04-06,1,0,1,0,Designated
+25,2020-03-22,Bengaluru,51,M,UK,2020-03-13,NaN,NaN,2020-04-11,1,0,1,4,Designated
+26,2020-03-22,Mangaluru,22,M,Dubai,2020-03-19,NaN,NaN,2020-04-06,1,0,1,0,Designated
+27,2020-03-23,Mysuru,46,M,Dubai,2020-03-22,NaN,NaN,NaN,1,0,0,0,Designated
+28,2020-03-23,Bengaluru,38,M,Dubai,2020-03-17,NaN,NaN,2020-04-07,1,0,1,0,Designated
+29,2020-03-23,Bengaluru,41,M,UK,2020-03-13,NaN,NaN,2020-04-06,1,0,1,0,Designated
+30,2020-03-23,Bengaluru,30,F,NaN,NaN,17,NaN,NaN,1,0,0,0,Designated
+31,2020-03-23,Bengaluru,24,M,Dubai,2020-03-18,NaN,NaN,2020-04-06,1,0,1,0,Designated
+32,2020-03-23,Bengaluru,60,M,Germany,2020-03-17,NaN,NaN,NaN,1,0,0,0,Designated
+33,2020-03-23,Bengaluru,22,M,Dubai,2020-03-22,NaN,NaN,NaN,1,0,0,0,Designated
+34,2020-03-24,Mangaluru,32,M,Dubai,2020-03-21,NaN,NaN,2020-04-07,1,0,1,0,Designated
+35,2020-03-24,Uttara Kannada,40,M,Dubai,2020-03-22,NaN,NaN,2020-04-09,1,0,1,0,Designated
+36,2020-03-24,Uttara Kannada,65,M,Dubai,2020-03-18,NaN,NaN,2020-04-09,1,0,1,3,Designated
+37,2020-03-24,Chikkaballapura,56,F,Saudi Arabia,2020-03-14,19,NaN,2020-04-10,1,0,1,0,Designated
+38,2020-03-24,Bengaluru,56,F,NaN,NaN,13,NaN,NaN,1,0,0,0,Designated
+39,2020-03-24,Mangaluru,47,M,Dubai,NaN,NaN,NaN,2020-04-07,1,0,1,0,Designated
+40,2020-03-24,Mangaluru,70,F,Saudi Arabia,NaN,NaN,NaN,NaN,1,0,0,0,Designated
+41,2020-03-24,Mangaluru,23,M,Saudi Arabia,NaN,NaN,NaN,2020-04-07,1,0,1,0,Designated
+42,2020-03-25,Davangere,37,F,Guyana,2020-03-20,NaN,NaN,2020-04-06,1,0,1,1,Designated
+43,2020-03-25,Bengaluru,63,M,Brazil,2020-03-19,NaN,NaN,NaN,1,0,0,2,Designated
+44,2020-03-25,Bengaluru,59,F,Brazil,2020-03-19,43,NaN,NaN,1,0,0,0,Designated
+45,2020-03-25,Bengaluru,26,M,Spain,2020-03-19,NaN,NaN,NaN,1,0,0,1,Designated
+46,2020-03-25,Bengaluru,26,M,Spain,2020-03-19,45,NaN,NaN,1,0,0,0,Designated
+47,2020-03-25,Bengaluru,63,F,Greece,2020-03-18,NaN,NaN,2020-04-11,1,0,1,1,Designated
+48,2020-03-25,Bengaluru,69,M,Greece,2020-03-18,46,NaN,2020-04-11,1,0,1,0,Designated
+49,2020-03-25,Bengaluru,9,F,NaN,NaN,17,NaN,NaN,1,0,0,0,Designated
+50,2020-03-25,Bengaluru,7,F,NaN,NaN,17,NaN,NaN,1,0,0,0,Designated
+51,2020-03-25,Udupi,34,M,Dubai,2020-03-18,NaN,NaN,NaN,1,0,0,0,Designated
+52,2020-03-26,Mysuru,35,M,NaN,NaN,NaN,NaN,2020-04-11,1,0,1,15,Designated
+53,2020-03-26,Chikkaballapura,70,F,Saudi Arabia,2020-03-14,NaN,2020-03-24,NaN,1,1,0,0,Designated
+54,2020-03-26,Bengaluru Rural,64,M,France,2020-03-01,NaN,NaN,NaN,1,0,0,0,Designated
+55,2020-03-26,Bengaluru,45,M,NaN,NaN,25,NaN,NaN,1,0,0,0,Designated
+56,2020-03-27,Mangaluru,1,M,NaN,NaN,NaN,NaN,NaN,1,0,0,0,Designated
+57,2020-03-27,Bengaluru,20,M,Sri Lanka,2020-03-15,NaN,NaN,NaN,1,0,0,0,Designated
+58,2020-03-27,Bengaluru,25,F,UK,2020-03-18,NaN,NaN,NaN,1,0,0,2,Designated
+59,2020-03-27,Bengaluru,35,F,NaN,NaN,25,NaN,NaN,1,0,0,1,Designated
+60,2020-03-27,Tumkur,60,M,New Delhi,2020-03-13,NaN,2020-03-28,NaN,1,1,0,1,Designated
+61,2020-03-27,Bengaluru,33,F,NaN,NaN,25,NaN,NaN,1,0,0,0,Designated
+62,2020-03-27,Uttara Kannada,22,M,Dubai,NaN,NaN,NaN,2020-04-09,1,0,1,0,Designated
+63,2020-03-27,Davangere,18,M,France,2020-03-18,NaN,NaN,2020-04-10,1,0,1,0,Designated
+64,2020-03-27,Mangaluru,21,M,Dubai,NaN,NaN,NaN,2020-04-10,1,0,1,0,Designated
+65,2020-03-28,Uttara Kannada,54,F,NaN,NaN,36,NaN,NaN,1,0,0,0,Designated
+66,2020-03-28,Uttara Kannada,28,F,NaN,NaN,36,NaN,NaN,1,0,0,0,Designated
+67,2020-03-28,Uttara Kannada,23,F,NaN,NaN,36,NaN,NaN,1,0,0,0,Designated
+68,2020-03-28,Bengaluru,21,M,UK,2020-03-13,25,NaN,2020-04-11,1,0,1,0,Designated
+69,2020-03-28,Chikkaballapura,23,M,NaN,NaN,19,NaN,NaN,1,0,0,0,Designated
+70,2020-03-28,Chikkaballapura,70,M,NaN,NaN,19,NaN,2020-04-10,1,0,1,0,Designated
+71,2020-03-28,Chikkaballapura,32,F,NaN,NaN,19,NaN,NaN,1,0,0,0,Designated
+72,2020-03-28,Chikkaballapura,38,M,NaN,NaN,19,NaN,NaN,1,0,0,0,Designated
+73,2020-03-28,Chikkaballapura,18,M,NaN,NaN,19,NaN,NaN,1,0,0,0,Designated
+74,2020-03-28,Bengaluru,63,F,UK,2020-03-16,NaN,NaN,NaN,1,0,0,0,Designated
+75,2020-03-28,Bengaluru,20,M,NaN,NaN,42,NaN,2020-04-06,1,0,1,0,Designated
+76,2020-03-28,Bengaluru,24,M,NaN,NaN,35,NaN,NaN,1,0,0,0,Designated
+77,2020-03-29,Mysuru,39,M,NaN,NaN,52,NaN,NaN,1,0,0,0,Designated
+78,2020-03-29,Mysuru,38,M,NaN,NaN,52,NaN,NaN,1,0,0,1,Designated
+79,2020-03-29,Mysuru,21,M,NaN,NaN,52,NaN,NaN,1,0,0,0,Designated
+80,2020-03-29,Mysuru,31,M,NaN,NaN,52,NaN,NaN,1,0,0,0,Designated
+81,2020-03-29,Mysuru,42,M,NaN,NaN,52,NaN,NaN,1,0,0,1,Designated
+82,2020-03-29,Udupi,35,M,Dubai,2020-03-17,NaN,NaN,NaN,1,0,0,0,Designated
+83,2020-03-29,Udupi,29,M,Trivandrum,NaN,NaN,NaN,NaN,1,0,0,0,Designated
+84,2020-03-30,Tumkur,13,M,NaN,NaN,60,NaN,NaN,1,0,0,0,Designated
+85,2020-03-30,Mysuru,32,M,NaN,NaN,52,NaN,NaN,1,0,0,1,Designated
+86,2020-03-30,Mysuru,34,M,NaN,NaN,52,NaN,NaN,1,0,0,0,Designated
+87,2020-03-30,Mysuru,21,M,NaN,NaN,52,NaN,NaN,1,0,0,0,Designated
+88,2020-03-30,Mysuru,24,M,NaN,NaN,52,NaN,NaN,1,0,0,7,Designated
+89,2020-03-31,Hospet,52,M,Bengaluru,2020-03-16,NaN,NaN,NaN,1,0,0,2,Designated
+90,2020-03-31,Hospet,48,F,Bengaluru,2020-03-16,89,NaN,NaN,1,0,0,0,Designated
+91,2020-03-31,Hospet,26,F,Bengaluru,2020-03-16,89,NaN,NaN,1,0,0,0,Designated
+92,2020-03-31,Bengaluru,40,M,NaN,NaN,59,NaN,NaN,1,0,0,1,Designated
+93,2020-03-31,Bengaluru,19,M,USA,2020-03-22,NaN,NaN,NaN,1,0,0,0,Designated
+94,2020-03-31,Chikkaballapura,40,F,NaN,NaN,19,NaN,NaN,1,0,0,0,Designated
+95,2020-03-31,Mysuru,35,M,NaN,NaN,52,NaN,NaN,1,0,0,0,Designated
+96,2020-03-31,Mysuru,41,M,NaN,NaN,52,NaN,NaN,1,0,0,0,Designated
+97,2020-03-31,Dakshina Kannada,34,M,Dubai,2020-03-18,NaN,NaN,NaN,1,0,0,0,Designated
+98,2020-03-31,Bhatkal,26,M,Dubai,2020-03-20,NaN,NaN,NaN,1,0,0,0,Designated
+99,2020-03-31,Kalburgi,60,F,NaN,NaN,9,NaN,NaN,1,0,0,0,Designated
+100,2020-03-31,Bengaluru,40,M,Dubai,2020-03-20,NaN,NaN,NaN,1,0,0,0,Designated
+101,2020-03-31,Bengaluru,62,F,NaN,NaN,NaN,NaN,NaN,1,0,0,1,Designated
+102,2020-04-01,Bengaluru,24,M,NaN,NaN,NaN,NaN,NaN,1,0,0,1,Designated
+103,2020-04-01,Mysuru,37,M,NaN,NaN,52,NaN,NaN,1,0,0,4,Designated
+104,2020-04-01,Mysuru,27,M,NaN,NaN,52,NaN,NaN,1,0,0,2,Designated
+105,2020-04-01,Mysuru,33,M,NaN,NaN,103,NaN,NaN,1,0,0,0,Designated
+106,2020-04-01,Puttur,49,M,Dubai,2020-03-20,NaN,NaN,NaN,1,0,0,0,Designated
+107,2020-04-01,Bengaluru,26,M,Spain,2020-03-18,NaN,NaN,NaN,1,0,0,0,Designated
+108,2020-04-01,Bengaluru-Kerala,69,M,Germany,2020-03-21,NaN,NaN,NaN,1,0,0,0,Designated
+109,2020-04-01,Mysuru,63,M,NaN,NaN,52,NaN,NaN,1,0,0,1,Designated
+110,2020-04-01,Mysuru,27,F,NaN,NaN,52,NaN,NaN,1,0,0,0,Designated
+111,2020-04-02,Mysuru,24,M,NaN,NaN,88,NaN,NaN,1,0,0,1,Designated
+112,2020-04-02,Mysuru,22,M,NaN,NaN,88,NaN,NaN,1,0,0,0,Designated
+113,2020-04-02,Ballari,14,M,NaN,NaN,81,NaN,NaN,1,0,0,0,Designated
+114,2020-04-02,Bidar,48,M,Nizamuddin,2020-03-18,NaN,NaN,NaN,1,0,0,0,Designated
+115,2020-04-02,Bidar,30,M,Nizamuddin,2020-03-18,NaN,NaN,NaN,1,0,0,0,Designated
+116,2020-04-02,Bidar,41,M,Nizamuddin,2020-03-18,NaN,NaN,NaN,1,0,0,0,Designated
+117,2020-04-02,Bidar,66,M,Nizamuddin,2020-03-18,NaN,NaN,NaN,1,0,0,0,Designated
+118,2020-04-02,Bidar,59,M,Nizamuddin,2020-03-18,NaN,NaN,NaN,1,0,0,0,Designated
+119,2020-04-02,Bidar,39,M,Nizamuddin,2020-03-18,NaN,NaN,NaN,1,0,0,0,Designated
+120,2020-04-02,Bidar,60,M,Nizamuddin,2020-03-18,NaN,NaN,NaN,1,0,0,0,Designated
+121,2020-04-02,Bidar,63,M,Nizamuddin,2020-03-18,NaN,NaN,NaN,1,0,0,1,Designated
+122,2020-04-02,Bidar,73,M,Nizamuddin,2020-03-18,NaN,NaN,NaN,1,0,0,1,Designated
+123,2020-04-02,Bidar,45,M,Nizamuddin,2020-03-18,NaN,NaN,NaN,1,0,0,0,Designated
+124,2020-04-02,Bidar,45,M,NaN,NaN,121,NaN,NaN,1,0,0,1,Designated
+125,2020-04-03,Bagalkote,75,M,NaN,NaN,NaN,2020-04-04,NaN,1,1,0,3,Designated
+126,2020-04-03,Belgavi,70,M,NaN,NaN,NaN,NaN,NaN,1,0,0,0,Designated
+127,2020-04-03,Belgavi,26,M,NaN,NaN,NaN,NaN,NaN,1,0,0,0,Designated
+128,2020-04-03,Belgavi,20,M,NaN,NaN,NaN,NaN,NaN,1,0,0,3,Designated
+129,2020-04-04,Bengaluru,21,M,NaN,NaN,58,NaN,NaN,1,0,0,0,BLCH
+130,2020-04-04,Bengaluru,57,M,NaN,NaN,58,NaN,NaN,1,0,0,0,BLCH
+131,2020-04-04,Bengaluru,43,M,NaN,NaN,101,NaN,NaN,1,0,0,0,RGICD
+132,2020-04-04,Bengaluru,78,M,Dubai,2020-03-17,NaN,NaN,NaN,1,0,0,0,Manipal
+133,2020-04-04,Bengaluru-Kerala,60,M,Germany,NaN,NaN,NaN,NaN,1,0,0,1,Akash RURAL
+134,2020-04-04,Mysuru,38,M,New Delhi,NaN,NaN,NaN,NaN,1,0,0,8,KR 
+135,2020-04-04,Mysuru,19,M,New Delhi,NaN,134,NaN,NaN,1,0,0,0,KR 
+136,2020-04-04,Mysuru,39,M,New Delhi,NaN,134,NaN,NaN,1,0,0,0,KR 
+137,2020-04-04,Mysuru,39,M,NaN,NaN,134,NaN,NaN,1,0,0,0,KR 
+138,2020-04-04,Mysuru,54,M,New Delhi,NaN,134,NaN,NaN,1,0,0,0,KR 
+139,2020-04-04,Mysuru,40,M,NaN,NaN,NaN,NaN,NaN,1,0,0,0,KR 
+140,2020-04-04,Mysuru,34,M,NaN,NaN,109,NaN,NaN,1,0,0,0,KR 
+141,2020-04-04,Hospet,47,F,NaN,NaN,NaN,NaN,NaN,1,0,0,0,District Hospital Ballari
+142,2020-04-04,Udupi,63,F,Dubai,2020-03-22,NaN,NaN,NaN,1,0,0,0,ESI
+143,2020-04-04,Dakshina Kannada,43,M,Nizamuddin,2020-03-18,NaN,NaN,NaN,1,0,0,0,Yenepoya 
+144,2020-04-04,Dakshina Kannada,52,M,Nizamuddin,2020-03-18,NaN,NaN,NaN,1,0,0,1,Yenepoya 
+145,2020-04-05,Bengaluru,68,M,Dubai,2020-03-22,NaN,NaN,NaN,1,0,0,0,Akash RURAL
+146,2020-04-05,Bengaluru,62,F,Dubai,2020-03-22,145,NaN,NaN,1,0,0,0,Akash RURAL
+147,2020-04-05,"Raibagh, Belgavi",36,F,Nizamuddin,2020-03-20,NaN,NaN,NaN,1,0,0,0,District Hospital Belgaum
+148,2020-04-05,"Raibagh, Belgavi",40,M,Nizamuddin,2020-03-20,NaN,NaN,NaN,1,0,0,0,District Hospital Belgaum
+149,2020-04-05,"Raibagh, Belgavi",67,F,Nizamuddin,2020-03-20,NaN,NaN,NaN,1,0,0,0,District Hospital Belgaum
+150,2020-04-05,"Raibagh, Belgavi",41,F,Nizamuddin,2020-03-20,NaN,NaN,NaN,1,0,0,0,District Hospital Belgaum
+151,2020-04-05,Ballari,41,M,Nizamuddin,2020-03-20,NaN,NaN,NaN,1,0,0,0,"MDRS, Alipur, Ballari"
+152,2020-04-06,Bengaluru,32,M,NaN,NaN,43,NaN,NaN,1,0,0,0,Designated
+153,2020-04-06,Bengaluru-Kerala,62,F,Germany,NaN,133,NaN,NaN,1,0,0,0,Designated
+154,2020-04-06,Mysuru,20,M,NaN,NaN,104,NaN,NaN,1,0,0,0,Designated
+155,2020-04-06,Mysuru,37,M,Delhi,NaN,NaN,NaN,NaN,1,0,0,0,Designated
+156,2020-04-06,Mysuru,57,M,Delhi,NaN,NaN,NaN,NaN,1,0,0,0,Designated
+157,2020-04-06,Mysuru,22,M,Delhi,NaN,NaN,NaN,NaN,1,0,0,0,Designated
+158,2020-04-06,Mysuru,26,M,NaN,NaN,NaN,NaN,NaN,1,0,0,0,Designated
+159,2020-04-06,Mysuru,32,F,NaN,NaN,103,NaN,NaN,1,0,0,2,Designated
+160,2020-04-06,Mysuru,35,M,Dubai,NaN,NaN,NaN,NaN,1,0,0,0,Designated
+161,2020-04-06,Bagalkote,54,F,NaN,NaN,125,NaN,NaN,1,0,0,0,Designated
+162,2020-04-06,Bagalkote,58,M,NaN,NaN,125,NaN,NaN,1,0,0,0,Designated
+163,2020-04-06,Bengaluru Rural,43,M,NaN,NaN,NaN,NaN,NaN,1,0,0,0,Designated
+164,2020-04-07,Bagalkote,33,M,Delhi,NaN,NaN,NaN,NaN,1,0,0,0,Designated
+165,2020-04-07,Bagalkote,41,F,NaN,NaN,125,NaN,NaN,1,0,0,2,Designated
+166,2020-04-07,Gadag,80,F,Severe Acute Respiratory Infection (SARI),NaN,NaN,2020-04-09,NaN,1,1,0,0,Designated
+167,2020-04-07,Bengaluru,29,M,Delhi,NaN,NaN,NaN,NaN,1,0,0,3,Designated
+168,2020-04-07,Bengaluru,50,M,Delhi,NaN,167,NaN,NaN,1,0,0,0,Designated
+169,2020-04-07,Bengaluru Rural,35,M,Delhi,NaN,NaN,NaN,NaN,1,0,0,1,Designated
+170,2020-04-07,Bengaluru Rural,68,M,Dubai,NaN,NaN,NaN,NaN,1,0,0,0,Designated
+171,2020-04-07,Mandya,32,M,NaN,NaN,134,NaN,NaN,1,0,0,0,Designated
+172,2020-04-07,Mandya,36,M,NaN,NaN,134,NaN,NaN,1,0,0,0,Designated
+173,2020-04-07,Mandya,65,M,NaN,NaN,134,NaN,NaN,1,0,0,0,Designated
+174,2020-04-07,Kalburgi,28,F,NaN,NaN,124,NaN,NaN,1,0,0,0,Designated
+175,2020-04-07,Kalburgi,57,M,SARI,NaN,NaN,NaN,NaN,1,0,0,1,Designated
+176,2020-04-08,Uttara Kannada,26,F,SARI,NaN,NaN,NaN,NaN,1,0,0,0,Designated
+177,2020-04-08,Kalburgi,65,M,SARI,NaN,NaN,2020-04-07,NaN,1,1,0,0,Designated
+178,2020-04-08,Kalburgi,72,F,NaN,NaN,175,NaN,NaN,1,0,0,0,Designated
+179,2020-04-08,Mandya,35,M,NaN,NaN,134,NaN,NaN,1,0,0,0,Designated
+180,2020-04-08,Chikkaballapura,23,M,Delhi,NaN,NaN,NaN,NaN,1,0,0,0,Designated
+181,2020-04-08,Chikkaballapura,27,F,Delhi,NaN,NaN,NaN,NaN,1,0,0,0,Designated
+182,2020-04-09,Belgavi,50,M,NaN,NaN,128,NaN,NaN,1,0,0,0,Designated
+183,2020-04-09,Mysuru,55,M,NaN,NaN,104,NaN,NaN,1,0,0,1,Designated
+184,2020-04-09,Mysuru,68,M,NaN,NaN,159,NaN,NaN,1,0,0,0,Designated
+185,2020-04-09,Mandya,32,M,NaN,NaN,78,NaN,NaN,1,0,0,0,Designated
+186,2020-04-09,Bagalkote,4,M,NaN,NaN,165,NaN,NaN,1,0,0,0,Designated
+187,2020-04-09,Bagalkote,13,M,NaN,NaN,165,NaN,NaN,1,0,0,0,Designated
+188,2020-04-09,Bagalkote,9,F,NaN,NaN,165,NaN,NaN,1,0,0,0,Designated
+189,2020-04-09,Bengaluru,19,F,Delhi,NaN,NaN,NaN,NaN,1,0,0,0,Designated
+190,2020-04-09,Bengaluru,27,M,Delhi,NaN,NaN,NaN,NaN,1,0,0,0,Designated
+191,2020-04-09,Chikkaballapura,48,F,NaN,NaN,19,NaN,NaN,1,0,0,0,Designated
+192,2020-04-09,Belgavi,40,F,NaN,NaN,128,NaN,NaN,1,0,0,0,Designated
+193,2020-04-09,Belgavi,22,M,NaN,NaN,128,NaN,NaN,1,0,0,0,Designated
+194,2020-04-09,Dharwad,27,M,Delhi,NaN,NaN,NaN,NaN,1,0,0,0,Designated
+195,2020-04-09,Bengaluru,66,M,Manipur,2020-03-12,NaN,NaN,NaN,1,0,0,1,Designated
+196,2020-04-09,Bengaluru,42,M,SARI,NaN,NaN,NaN,NaN,1,0,0,0,RGICD
+197,2020-04-09,Bengaluru,27,M,SARI,NaN,NaN,NaN,NaN,1,0,0,0,RGICD
+198,2020-04-10,Bengaluru,48,M,NaN,NaN,167,NaN,NaN,1,0,0,0,Designated
+199,2020-04-10,Bengaluru,57,M,NaN,NaN,167,NaN,NaN,1,0,0,0,Designated
+200,2020-04-10,Mysuru,8,M,NaN,NaN,103,NaN,NaN,1,0,0,0,Designated
+201,2020-04-10,Mysuru,48,F,NaN,NaN,103,NaN,NaN,1,0,0,0,Designated
+202,2020-04-10,Mysuru,33,M,NaN,NaN,111,NaN,NaN,1,0,0,0,Designated
+203,2020-04-10,Mysuru,28,F,NaN,NaN,85,NaN,NaN,1,0,0,1,Designated
+204,2020-04-10,Mysuru,48,F,NaN,NaN,183,NaN,NaN,1,0,0,0,Designated
+205,2020-04-10,Kalburgi,55,M,SARI,NaN,183,NaN,NaN,1,0,0,0,Designated
+206,2020-04-10,Bengaluru Rural,35,M,NaN,NaN,169,NaN,NaN,1,0,0,0,Designated
+207,2020-04-10,Bengaluru Rural,11,F,NaN,NaN,203,NaN,NaN,1,0,0,0,Designated
+208,2020-04-11,Bengaluru,32,M,NaN,NaN,196,NaN,NaN,1,0,0,0,Designated
+209,2020-04-11,Mysuru,46,M,NaN,NaN,88,NaN,NaN,1,0,0,0,Designated
+210,2020-04-11,Mysuru,43,M,NaN,NaN,88,NaN,NaN,1,0,0,0,Designated
+211,2020-04-11,Bidar,50,F,NaN,NaN,122,NaN,NaN,1,0,0,0,Designated
+212,2020-04-11,Mysuru,27,M,NaN,NaN,88,NaN,NaN,1,0,0,0,Designated
+213,2020-04-11,Mysuru,31,M,NaN,NaN,88,NaN,NaN,1,0,0,0,Designated
+214,2020-04-11,Mysuru,26,M,NaN,NaN,88,NaN,NaN,1,0,0,0,Designated
+215,2020-04-11,Bengaluru,10,M,NaN,NaN,92,NaN,NaN,1,0,0,0,Designated
